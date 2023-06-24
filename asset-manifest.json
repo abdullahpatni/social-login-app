@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/social-login-app/static/css/main.073c9b0a.css",
+    "main.js": "/social-login-app/static/js/main.191b8e4f.js",
+    "static/js/787.48070354.chunk.js": "/social-login-app/static/js/787.48070354.chunk.js",
+    "index.html": "/social-login-app/index.html",
+    "main.073c9b0a.css.map": "/social-login-app/static/css/main.073c9b0a.css.map",
+    "main.191b8e4f.js.map": "/social-login-app/static/js/main.191b8e4f.js.map",
+    "787.48070354.chunk.js.map": "/social-login-app/static/js/787.48070354.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.191b8e4f.js"
+  ]
+}
